@@ -1,6 +1,6 @@
 # AutoFramework
 
-AutoFramework is an advanced, highly modular, and scalable test automation framework specifically engineered for comprehensive end-to-end web application testing. Developed using Selenium WebDriver. 
+AutoFramework is an highly modular, and scalable test automation framework specifically engineered for comprehensive end-to-end web application testing. Developed using Selenium WebDriver. 
 it offers a robust foundation for creating clean, maintainable, and reusable automated test cases. 
 Its modular design ensures flexibility, enabling seamless integration with various tools and technologies, while maintaining high standards of performance, reliability, and test coverage.
 
@@ -83,8 +83,6 @@ For questions or support, please contact:
 **Mohamed Abdel Nasser**
 
 ### Contact 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-abdel-nasser-75014019a/)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.a.nasser113@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+201018127745)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-abdel-nasser-75014019a/) [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.a.nasser113@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+201018127745)
 
 
