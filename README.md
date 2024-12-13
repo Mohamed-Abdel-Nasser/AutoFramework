@@ -5,6 +5,34 @@ it offers a robust foundation for creating clean, maintainable, and reusable aut
 Its modular design ensures flexibility, enabling seamless integration with various tools and technologies, while maintaining high standards of performance, reliability, and test coverage.
 
 ---
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+    - [Clone the Repository](#clone-the-repository)
+    - [Install Dependencies](#install-dependencies)
+2. [Project Structure](#project-structure)
+3. [Key Components](#key-components)
+    - [Pages](#pages)
+    - [Logger](#logger)
+    - [Utilities](#utilities)
+4. [Tools and Technologies](#tools-and-technologies)
+5. [Contributing](#contributing)
+
+---
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+    - [Clone the Repository](#clone-the-repository)
+    - [Install Dependencies](#install-dependencies)
+2. [Project Structure](#project-structure)
+3. [Key Components](#key-components)
+    - [Pages](#pages)
+    - [Logger](#logger)
+    - [Utilities](#utilities)
+4. [Tools and Technologies](#tools-and-technologies)
+5. [Contributing](#contributing)
+
+---
 
 ## Getting Started
 
