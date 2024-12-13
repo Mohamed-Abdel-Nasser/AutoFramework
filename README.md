@@ -67,11 +67,18 @@ Reusable utilities such as browser actions and assertions are provided to accele
 
 ## Contributing
 
-Contributions are welcome! To contribute:
-1. Fork this repository.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push the branch to your fork (`git push origin feature-name`).
-5. Create a pull request.
+Contributions are welcome! 
+We welcome contributions from QA Automation Testing Engineers! To contribute:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your test enhancements or fixes (`git checkout -b test-enhancement-name`).
+3. Write clear, maintainable test scripts and ensure thorough test coverage.
+4. Run all tests and confirm they pass successfully.
+5. Commit your changes with meaningful messages (`git commit -m 'Add new test or fix'`).
+6. Push your branch to your fork (`git push origin test-enhancement-name`).
+7. Open a pull request, including a description of your improvements or fixes.
+
+We look forward to your contributions and appreciate your attention to quality!
+"""
 
 ---
