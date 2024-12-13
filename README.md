@@ -26,7 +26,7 @@ mvn clean install
 
 ```
 AutoFramework/
-├── src/main/java/engine/                # Core framework components (actions, constants, logger)
+├── src/main/java/engine/                # Core framework components (actions, constants, logger,BrowserDriverFactory)
 ├── src/main/java/pages/                 # Page Object Model (POM) classes
 ├── src/main/resources/properties/       # Configuration files
 ├── src/test/java/tests/                 # Test cases
